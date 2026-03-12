@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+
+# Node
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
+data/raw/
+data/processed/
+models/best_model.pt
