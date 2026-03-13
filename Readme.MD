@@ -189,9 +189,3 @@ Each audio file is processed as follows:
 Trained on Apple M4 (MPS backend via PyTorch). Training time approximately 25 minutes for 69 epochs on 4,240 samples.
 
 ---
-
-## Internship
-
-**Program:** CodeAlpha Machine Learning Internship  
-**Task:** Task 2 — Emotion Recognition from Speech  
-**Objective:** Recognize human emotions from speech audio using deep learning and signal processing
